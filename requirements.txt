@@ -1,0 +1,8 @@
+pip
+ipython
+numpy
+matplotlib
+pandas
+scikit-learn[alldeps]
+scipy
+tqdm
